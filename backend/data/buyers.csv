@@ -1,0 +1,13 @@
+buyer_id,name,company,crop_interest,min_qty_quintal,max_price_offered,location,district,reliability_score,contact_phone,buyer_type
+B001,Ramesh Patel,Patel Ginning Mills,cotton,500,7800,Surendranagar,Surendranagar,4.8,9876543210,ginning_mill
+B002,Suresh Shah,Shah Oil Industries,groundnut,200,6200,Rajkot,Rajkot,4.6,9876543211,oil_mill
+B003,Dinesh Modi,Modi Exports Pvt Ltd,cotton,1000,8000,Ahmedabad,Ahmedabad,4.9,9876543212,exporter
+B004,Priya Desai,Gujarat FPO Consortium,groundnut,100,6000,Junagadh,Junagadh,4.5,9876543213,fpo
+B005,Vijay Trivedi,Trivedi Cotton Corp,cotton,300,7600,Gondal,Rajkot,4.7,9876543214,trader
+B006,Nilesh Joshi,Joshi Groundnut Traders,groundnut,150,5900,Amreli,Amreli,4.3,9876543215,trader
+B007,Harish Mehta,Mehta Agro Industries,cotton,800,7900,Bhavnagar,Bhavnagar,4.8,9876543216,ginning_mill
+B008,Kamal Agarwal,Agarwal Foods Ltd,groundnut,300,6300,Rajkot,Rajkot,4.9,9876543217,oil_mill
+B009,Pratik Solanki,Solanki Export House,groundnut,500,6400,Porbandar,Porbandar,4.7,9876543218,exporter
+B010,Mangesh Patil,Gujarat Farmers Collective,cotton,200,7500,Morbi,Morbi,4.4,9876543219,fpo
+B011,Rakesh Gupta,Gupta Cotton Mills,cotton,600,7700,Surat,Surat,4.6,9876543220,ginning_mill
+B012,Sanjay Pandya,Pandya Oil Refinery,groundnut,400,6250,Jamnagar,Jamnagar,4.5,9876543221,oil_mill

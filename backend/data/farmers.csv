@@ -1,0 +1,6 @@
+farmer_id,name,village,district,phone,preferred_language,crops
+F001,Bhavesh Patel,Kalavad,Rajkot,9712345678,gujarati,"cotton,groundnut"
+F002,Ramaben Solanki,Visavadar,Junagadh,9712345679,gujarati,groundnut
+F003,Jayesh Mer,Halvad,Surendranagar,9712345680,hindi,cotton
+F004,Daksha Parmar,Khambha,Amreli,9712345681,gujarati,groundnut
+F005,Naresh Jat,Morbi,Morbi,9712345682,gujarati,cotton

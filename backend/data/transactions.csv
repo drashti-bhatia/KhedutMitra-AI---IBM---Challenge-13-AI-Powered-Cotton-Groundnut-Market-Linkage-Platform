@@ -1,0 +1,11 @@
+transaction_id,farmer_id,date,crop,quantity_quintal,price_realized,mandi,buyer_id,direct_sale
+T001,F001,2024-01-15,groundnut,50,5950,Rajkot,B002,true
+T002,F001,2024-01-28,cotton,80,7600,Surendranagar,B001,true
+T003,F002,2024-02-05,groundnut,120,6100,Junagadh,B004,true
+T004,F003,2024-01-20,cotton,200,7250,Surendranagar,B005,false
+T005,F004,2024-03-05,groundnut,90,6300,Amreli,B008,true
+T006,F001,2024-03-10,groundnut,60,6050,Rajkot,B002,true
+T007,F005,2024-02-08,cotton,150,7700,Gondal,B007,true
+T008,F002,2024-03-08,groundnut,80,6150,Junagadh,B009,true
+T009,F003,2024-02-15,cotton,180,7450,Gondal,B003,true
+T010,F004,2024-02-20,groundnut,100,6200,Amreli,B002,false
