@@ -105,8 +105,8 @@ kisaanconnect/
 
 Credentials are in `backend/.env`:
 ```
-WATSONX_API_KEY=EWDVjscHQ5IKef70IssmDN3Urzcmu73nZrM6Jxkxl6Vm
-WATSONX_URL=https://api.au-syd.watson-orchestrate.cloud.ibm.com/instances/6ed83dc2-ad21-4c90-a435-489b48c1b18e
+WATSONX_API_KEY= <your api key>
+WATSONX_URL=<your-url>
 WATSONX_PROJECT_ID=<your-project-id>
 GRANITE_MODEL_ID=ibm/granite-3-8b-instruct
 PORT=8000
